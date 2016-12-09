@@ -1,0 +1,20 @@
+
+Account attr post acq
+-------------------------------------------
+1) Output File is same as that of R.i.e 158 MB.
+   but it is giving NA in some of the last column instead of 0,I have specified the row number,pls compare both the output file.
+   
+row no. 20 -last column appears NA but it is 0 in R output
+row no. 76 -last column appears NA but it is 0 in R output
+row no. 78 -last column appears NA but it is 0 in R output
+row no. 11267 -last column appears NA but it is 0 in R output
+row no. 11268 -last column appears NA but it is 0 in R output
+row no. 11270 -last column appears NA but it is 0 in R output
+---------------------------------------------------
+Inquiry Post SBI
+---------------------------------------------------
+1)No of rows in both the output file is same,
+but the data inside table after column 3 is giving two many NA.. and also row number is jumbled...
+Data inside file is incorrect.
+
+The script which you had given earlier to this was giving perfect data but only row number is jumbled
